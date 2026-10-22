@@ -1,1 +1,1 @@
-"# images" 
+> **This repository has moved.** The images now live in [`techforum-samples/aem/chatgptintegration/images`](https://github.com/techforum-repo/techforum-samples/tree/master/aem/chatgptintegration/images), with their full commit history. This repo is archived and read-only; existing image links keep working."# images" 
